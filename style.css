@@ -709,6 +709,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    font-size: 30px;
 }
 
 h2 {
@@ -844,13 +845,15 @@ font-style: italic;
 font-size: 20px;
 width: 81%;
 margin-bottom: 0;
+color:rgb(60, 59, 59);
+font-weight: lighter;
 }
 .center-3{
     font-weight: lighter;
     font-size: 20px;
     margin-top: 0;
     margin-right: 20%;
-    color:rgb(122, 120, 120);
+    color:rgb(64, 61, 61);
     
 }
 @media (max-width: 1024px) {
